@@ -7,7 +7,7 @@ This repository contains my solution for the Kaggle Playground Series - Season 5
 - **Competition**: [Kaggle Playground Series - S5E5](https://www.kaggle.com/competitions/playground-series-s5e5/overview)
 - **Goal**: Predict calories burned using features like height, weight, heart rate, duration, and temperature
 - **Rank**: 682 / 4316
-- **Top**: 💯 Top 16%
+- **Top**: Top 16%
 
 ## 📂 Files
 
